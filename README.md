@@ -20,8 +20,5 @@
 ...
 
 ## Projects
-<<<<<<< HEAD
-...
-=======
-...
->>>>>>> e25b9d9035348991a74fd4976bd5a48a613d0e15
+- Storage container acting as a cloud
+- Model integration with IDE
